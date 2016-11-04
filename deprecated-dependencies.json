@@ -1,0 +1,9 @@
+{
+  "assets": [{
+    "key": "assets.version",
+    "name": "assets-frontend",
+    "range": "(,2.231.0)",
+    "reason": "Update to the latest version",
+    "from": "2099-01-01"
+  }]
+}
